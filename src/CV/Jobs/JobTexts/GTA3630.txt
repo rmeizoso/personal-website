@@ -1,0 +1,1 @@
+Ran bi-weekly office hours for 150+ students, as well as weekly grading sessions#Wrote autograder scripts for 6 labs in Python, as well as re-writing homework material meant to be run on <a href='https://support.digitaldreamlabs.com/article/139-what-is-the-difference-between-cozmo-and-vector'>Anki Vector and Cozmo</a> robots

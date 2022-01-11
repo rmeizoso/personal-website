@@ -1,0 +1,1 @@
+Worked on and with a <a href='https://en.wikipedia.org/wiki/Convolutional_neural_network'>Convolutional Neural Network (CNN)</a> that would find the best manufacturing process for given part geometry#Designed 100+ labeled parts that were used to increase training and testing dataset sizes

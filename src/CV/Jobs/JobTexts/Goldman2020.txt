@@ -1,0 +1,1 @@
+Developed the full stack of a feature in a web application that generated an automated letter as per user request using Java, JavaScript and ReactJS#Saved a team of attorneys about 2 hours of work daily by automating the process of writing letters
